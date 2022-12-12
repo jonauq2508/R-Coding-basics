@@ -1,0 +1,17 @@
+To create an object we need to use the “assign”  "is written as an arrow with a minus sign and a bracket; this symbol can be oriented left-to-right or the reverse"
+
+> n <- 15
+> n
+[1] 15
+> 5 -> n
+> n
+[1] 5
+> x <- 1
+> X <- 10
+> x
+[1] 1
+> X
+[1] 10
+
+#“R for Beginners”. ... c 2002, 2005, Emmanuel Paradis (12th September 2005)
+
